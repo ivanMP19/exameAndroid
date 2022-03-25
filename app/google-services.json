@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698264906120",
+    "project_id": "examenandroid-345118",
+    "storage_bucket": "examenandroid-345118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698264906120:android:dce2a362dfe0cb85cfb23d",
+        "android_client_info": {
+          "package_name": "com.ivan.marin.exameandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698264906120-ginssmbp0mvm7hbeq5au88rgkia7kmve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuJfk1-G6EdzhbVVriN5zXaa2orNYrs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698264906120-ginssmbp0mvm7hbeq5au88rgkia7kmve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

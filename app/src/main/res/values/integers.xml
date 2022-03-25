@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="number_starts_movie">5</integer>
+    <integer name="main_columns">1</integer>
+</resources>

@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ExameAndroid" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="base_cardview" parent="Base.CardView">
+        <item name="cardCornerRadius">5dp</item>
+        <item name="cardElevation">5dp</item>
+        <item name="cardMaxElevation">5dp</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+
+    <style name="DetailField" parent="android:Widget.TextView">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:lineSpacingExtra">6dp</item>
+        <item name="android:textColor">@color/StrongBlue</item>
+    </style>
+
+    <style name="HeaderTextView" parent="android:Widget.TextView">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/teal_700</item>
+    </style>
+
+    <style name="TextStyleDialog" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/color_white_t</item>
+    </style>
+</resources>

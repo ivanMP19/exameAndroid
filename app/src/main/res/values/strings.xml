@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">exameAndroid</string>
+    <string name="home_api_rest">API REST</string>
+    <string name="home_show_map">Mapa</string>
+    <string name="home_imagen">Imagen</string>
+    <string name="lenguaje">Lenguaje:</string>
+    <string name="description_img_photo">Foto seleccionada</string>
+    <string name="description_image_add">Boton para agregar imagenes</string>
+    <string name="message_permission_denied_camara">Se requiere el permiso para iniciar la camara</string>
+    <string name="message_succes_send_image">Foto publicada</string>
+    <string name="message_failure_send_image">Fallo la carga de la imagen</string>
+    <string name="failure_consult_api">Fallo la consulta a la Api</string>
+    <string name="gen_desc">Descripción Genérica</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptarPermisos">Aceptar los permisos</string>
+    <string name="gps_deshabilitado">GPS Deshabilitado</string>
+    <string name="activate_prompt_message">Son necesarios conceder los permisos para el correcto funcionamiento de la aplicacion</string>
+    <string name="name_title">Movie</string>
+    <string name="description_title">Descripción</string>
+    <string name="deatalles">Detalles</string>
+    <string name="ok">Ok</string>
+    <string name="titulo_ubicacion">Proporciona los permisos para continuar</string>
+    <string name="mesage_ubicacion">Esta aplicacion requiere de los permisos de ubicacion para poder utilizarse</string>
+    <string name="activarGps">Por favor activa tu ubicacion para continuar</string>
+    <string name="configuraciones">Configuraciones</string>
+
+</resources>
